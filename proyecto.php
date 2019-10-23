@@ -7,9 +7,12 @@
   <body>
 
   <?php
-  if (condition) {
-    # code...
-  }else {
+  if (buttonA) {
+    
+  }elseif {
+  
+  }
+    else {
     # code...
   }
 
