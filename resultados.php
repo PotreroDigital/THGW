@@ -32,594 +32,386 @@
     echo "n° : ".$soc."<br>";
     echo "n° : ".$amb."<br>";
     echo "n° : ".$rad."<br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/alemania.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/arabia-saudita.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/australia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/austria.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/barein.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/belgica.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/brasil.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/brunei.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/canada.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/catar.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/corea-sur.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/dinamarca.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/emiratos-arabes-unidos.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/eslovaquia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/eslovenia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/espana.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/estados-unidos.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/finlandia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
+    echo "Andate a Mordor";
 
     if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==0) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/TP/Gusanito-master/alemania.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==1) {
+          if ($amb==0) {
+              if ($rad==2) {
+              }header ("Location: http://localhost/TP/Gusanito-master/arabia-saudita.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==6) {
+          if ($amb==0) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/TP/Gusanito-master/australia.html");
+              }
+            }
+          }
+
+    if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==3) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/TP/Gusanito-master/austria.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==3) {
+          if ($amb==2) {
+              if ($rad==3) {
+              }header ("Location: http://localhost/TP/Gusanito-master/barein.html");
+              }
+            }
+          }
+
+    if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==4) {
+              if ($rad==4) {
+              }header ("Location: http://localhost/TP/Gusanito-master/belgica.html");
+              }
+            }
+          }
+
+    if ($eco==2) {
+      if ($soc==7) {
+          if ($amb==4) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/TP/Gusanito-master/brasil.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==1) {
+              if ($rad==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/brunei.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==1) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/TP/Gusanito-master/canada.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==0) {
+              if ($rad==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/catar.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==4) {
+              if ($eco==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/corea-sur.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==4) {
+              if ($rad==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/dinamarca.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==0) {
+              if ($rad==3) {
+              }header ("Location: http://localhost/TP/Gusanito-master/emiratos-arabes.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
       if ($soc==7) {
           if ($amb==5) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/francia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
+              if ($rad==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/eslovaquia.html");
               }
             }
           }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
 
     if ($eco==7) {
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/indonesia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
+              }header ("Location: http://localhost/TP/Gusanito-master/eslovenia.html");
               }
             }
           }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
+
+    if ($eco==1) {
+      if ($soc==7) {
+          if ($amb==6) {
+              if ($rad==0) {
+              }header ("Location: http://localhost/TP/Gusanito-master/espana.html");
+              }
+            }
+          }
 
     if ($eco==7) {
-      if ($soc==7) {
+      if ($soc==6) {
           if ($amb==4) {
-              if ($eco==2) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/irlanda.html");
-                echo "1° lugar : <a href='irlanda.html'>Irlanda</a><br>";
+              if ($rad==2) {
+              }header ("Location: http://localhost/TP/Gusanito-master/estados-unidos.html");
               }
             }
           }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/islandia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
 
     if ($eco==5) {
-      if ($soc==2) {
+      if ($soc==7) {
+          if ($amb==8) {
+              if ($rad==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/finlandia.html");
+              }
+            }
+          }
+
+    if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==4) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/TP/Gusanito-master/francia.html");
+              }
+            }
+          }
+
+    if ($eco==8) {
+      if ($soc==8) {
+          if ($amb==4) {
+              if ($rad==5) {
+              }header ("Location: http://localhost/TP/Gusanito-master/indonesia.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==6) {
+          if ($amb==4) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/TP/Gusanito-master/irlanda.html");
+              }
+            }
+          }
+
+    if ($eco==8) {
+      if ($soc==8) {
+          if ($amb==4) {
+              if ($eco==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/islandia.html");
+              }
+            }
+          }
+
+    if ($eco==8) {
+      if ($soc==0) {
+          if ($amb==7) {
+              if ($rad==0) {
+              }header ("Location: http://localhost/TP/Gusanito-master/israel.html");
+              }
+            }
+          }
+
+    if ($eco==5) {
+      if ($soc==6) {
           if ($amb==2) {
+              if ($rad==2) {
+              }header ("Location: http://localhost/TP/Gusanito-master/italia.html");
+              }
+            }
+          }
+
+
+    if ($eco==7) {
+      if ($soc==6) {
+          if ($amb==7) {
+              if ($eco==7) {
+              }header ("Location: http://localhost/TP/Gusanito-master/japon.html");
+              }
+            }
+          }
+
+    if ($eco==9) {
+      if ($soc==0) {
+          if ($amb==0) {
+              if ($eco==5) {
+              }header ("Location: http://localhost/TP/Gusanito-master/kuwait.html");
+              }
+            }
+          }
+
+    if ($eco==0) {
+      if ($soc==0) {
+          if ($amb==0) {
+              if ($eco==9) {
+              }header ("Location: http://localhost/TP/Gusanito-master/liechtenstein.html");
+              }
+            }
+          }
+
+    if ($eco==0) {
+      if ($soc==0) {
+          if ($amb==0) {
+              if ($eco==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/luxemburgo.html");
+              }
+            }
+          }
+
+    if ($eco==9) {
+      if ($soc==8) {
+          if ($amb==9) {
+              if ($eco==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/noruega.html");
+              }
+            }
+          }
+
+    if ($eco==8) {
+      if ($soc==9) {
+          if ($amb==8) {
+              if ($eco==9) {
+              }header ("Location: http://localhost/TP/Gusanito-master/nueva-zelanda.html");
+              }
+            }
+          }
+
+    if ($eco==8) {
+      if ($soc==0) {
+          if ($amb==9) {
+              if ($eco==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/paises-bajos.html");
+              }
+            }
+          }
+
+    if ($eco==9) {
+      if ($soc==8) {
+          if ($amb==8) {
+              if ($eco==9) {
+              }header ("Location: http://localhost/TP/Gusanito-master/panama.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==9) {
+              if ($eco==9) {
+              }header ("Location: http://localhost/TP/Gusanito-master/polonia.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==9) {
               if ($eco==0) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/israel.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
+              }header ("Location: http://localhost/TP/Gusanito-master/portugal.html");
               }
             }
           }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
+
+    if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==4) {
+              if ($eco==7) {
+              }header ("Location: http://localhost/TP/Gusanito-master/reino-unido.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==8) {
+              if ($eco==0) {
+              }header ("Location: http://localhost/TP/Gusanito-master/republica-checa.html");
+              }
+            }
+          }
+
+    if ($eco==7) {
+      if ($soc==9) {
+          if ($amb==4) {
+              if ($eco==8) {
+              }header ("Location: http://localhost/TP/Gusanito-master/rusia.html");
+              }
+            }
+          }
 
     if ($eco==7) {
       if ($soc==7) {
           if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/italia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
+              if ($eco==9) {
+              }header ("Location: http://localhost/TP/Gusanito-master/san-marino.html");
               }
             }
           }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
 
     if ($eco==7) {
       if ($soc==7) {
-          if ($amb==4) {
+          if ($amb==9) {
               if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/japon.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
+              }header ("Location: http://localhost/TP/Gusanito-master/singapur.html");
               }
             }
           }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/kuwait.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/liechtenstein.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/luxemburgo.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/noruega.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/nueva-zelanda.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/paises-bajos.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/panama.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/polonia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/portugal.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/reino-unido.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/republica-checa.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/rusia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/san-marino.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/singapur.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
 
     if ($eco==5) {
       if ($soc==7) {
           if ($amb==3) {
               if ($eco==7) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/suecia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
+              }header ("Location: http://localhost/TP/Gusanito-master/suecia.html");
               }
             }
           }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
 
     if ($eco==7) {
+      if ($soc==9) {
+          if ($amb==4) {
+              if ($eco==5) {
+              }header ("Location: http://localhost/TP/Gusanito-master/suiza.html");
+              }
+            }
+          }
+
+    if ($eco==8) {
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/suiza.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
+              }header ("Location: http://localhost/TP/Gusanito-master/turquia.html");
               }
             }
           }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
-
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanitocodephp/turquia.html");
-                echo "1° lugar : <a href='alemania.html'>Irlanda</a><br>";
-              }
-            }
-          }
-      if ($eco==7 and $soc==7) {
-      }echo "Dos coincidencias : Tamarindo<br>";
-          if ($soc==7) {
-          }echo "Una coincidencia :"."<a href='suecia.html'>Suecia</a>"." y "."<a href='http://www.google.com'>Plutón</a><br>";
      ?>
 
   </body>
