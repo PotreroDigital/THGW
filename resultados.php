@@ -38,7 +38,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/alemania.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/alemania.html");
               }
             }
           }
@@ -47,7 +47,7 @@
       if ($soc==1) {
           if ($amb==0) {
               if ($rad==2) {
-              }header ("Location: http://localhost/TP/Gusanito-master/arabia-saudita.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/arabia-saudita.html");
               }
             }
           }
@@ -56,7 +56,7 @@
       if ($soc==6) {
           if ($amb==0) {
               if ($rad==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/australia.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/australia.html");
               }
             }
           }
@@ -65,7 +65,7 @@
       if ($soc==7) {
           if ($amb==3) {
               if ($rad==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/austria.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/austria.html");
               }
             }
           }
@@ -74,7 +74,7 @@
       if ($soc==3) {
           if ($amb==2) {
               if ($rad==3) {
-              }header ("Location: http://localhost/TP/Gusanito-master/barein.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/barein.html");
               }
             }
           }
@@ -83,7 +83,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==4) {
-              }header ("Location: http://localhost/TP/Gusanito-master/belgica.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/belgica.html");
               }
             }
           }
@@ -92,7 +92,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/brasil.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/brasil.html");
               }
             }
           }
@@ -101,7 +101,7 @@
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/brunei.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/brunei.html");
               }
             }
           }
@@ -110,7 +110,7 @@
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/canada.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/canada.html");
               }
             }
           }
@@ -119,7 +119,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/catar.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/catar.html");
               }
             }
           }
@@ -128,7 +128,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/corea-sur.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/corea-sur.html");
               }
             }
           }
@@ -137,7 +137,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/dinamarca.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/dinamarca.html");
               }
             }
           }
@@ -146,7 +146,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==3) {
-              }header ("Location: http://localhost/TP/Gusanito-master/emiratos-arabes.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/emiratos-arabes.html");
               }
             }
           }
@@ -155,7 +155,7 @@
       if ($soc==7) {
           if ($amb==5) {
               if ($rad==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/eslovaquia.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/eslovaquia.html");
               }
             }
           }
@@ -164,7 +164,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanito-master/eslovenia.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/eslovenia.html");
               }
             }
           }
@@ -173,7 +173,7 @@
       if ($soc==7) {
           if ($amb==6) {
               if ($rad==0) {
-              }header ("Location: http://localhost/TP/Gusanito-master/espana.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/espana.html");
               }
             }
           }
@@ -182,7 +182,7 @@
       if ($soc==6) {
           if ($amb==4) {
               if ($rad==2) {
-              }header ("Location: http://localhost/TP/Gusanito-master/estados-unidos.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/estados-unidos.html");
               }
             }
           }
@@ -191,7 +191,7 @@
       if ($soc==7) {
           if ($amb==8) {
               if ($rad==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/finlandia.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/finlandia.html");
               }
             }
           }
@@ -200,7 +200,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/francia.html");
+              }header ("Location: http://localhost//EALGusanito-master/francia.html");
               }
             }
           }
@@ -209,7 +209,7 @@
       if ($soc==8) {
           if ($amb==4) {
               if ($rad==5) {
-              }header ("Location: http://localhost/TP/Gusanito-master/indonesia.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/indonesia.html");
               }
             }
           }
@@ -218,7 +218,7 @@
       if ($soc==6) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/irlanda.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/irlanda.html");
               }
             }
           }
@@ -227,16 +227,16 @@
       if ($soc==8) {
           if ($amb==4) {
               if ($eco==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/islandia.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/islandia.html");
               }
             }
           }
 
-    if ($eco==8) {
-      if ($soc==0) {
-          if ($amb==7) {
-              if ($rad==0) {
-              }header ("Location: http://localhost/TP/Gusanito-master/israel.html");
+    if ($eco==7) {
+      if ($soc==7) {
+          if ($amb==2) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/EAL/Gusanito-master/israel.html");
               }
             }
           }
@@ -245,7 +245,7 @@
       if ($soc==6) {
           if ($amb==2) {
               if ($rad==2) {
-              }header ("Location: http://localhost/TP/Gusanito-master/italia.html");
+              }header ("Location: http://localhost/EAL/TP/Gusanito-master/italia.html");
               }
             }
           }
@@ -255,7 +255,7 @@
       if ($soc==6) {
           if ($amb==7) {
               if ($eco==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/japon.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/japon.html");
               }
             }
           }
@@ -264,7 +264,7 @@
       if ($soc==0) {
           if ($amb==0) {
               if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanito-master/kuwait.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/kuwait.html");
               }
             }
           }
@@ -273,7 +273,7 @@
       if ($soc==0) {
           if ($amb==0) {
               if ($eco==9) {
-              }header ("Location: http://localhost/TP/Gusanito-master/liechtenstein.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/liechtenstein.html");
               }
             }
           }
@@ -282,7 +282,7 @@
       if ($soc==0) {
           if ($amb==0) {
               if ($eco==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/luxemburgo.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/luxemburgo.html");
               }
             }
           }
@@ -291,7 +291,7 @@
       if ($soc==8) {
           if ($amb==9) {
               if ($eco==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/noruega.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/noruega.html");
               }
             }
           }
@@ -300,7 +300,7 @@
       if ($soc==9) {
           if ($amb==8) {
               if ($eco==9) {
-              }header ("Location: http://localhost/TP/Gusanito-master/nueva-zelanda.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/nueva-zelanda.html");
               }
             }
           }
@@ -309,7 +309,7 @@
       if ($soc==0) {
           if ($amb==9) {
               if ($eco==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/paises-bajos.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/paises-bajos.html");
               }
             }
           }
@@ -318,7 +318,7 @@
       if ($soc==8) {
           if ($amb==8) {
               if ($eco==9) {
-              }header ("Location: http://localhost/TP/Gusanito-master/panama.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/panama.html");
               }
             }
           }
@@ -327,7 +327,7 @@
       if ($soc==7) {
           if ($amb==9) {
               if ($eco==9) {
-              }header ("Location: http://localhost/TP/Gusanito-master/polonia.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/polonia.html");
               }
             }
           }
@@ -336,7 +336,7 @@
       if ($soc==7) {
           if ($amb==9) {
               if ($eco==0) {
-              }header ("Location: http://localhost/TP/Gusanito-master/portugal.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/portugal.html");
               }
             }
           }
@@ -345,7 +345,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/reino-unido.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/reino-unido.html");
               }
             }
           }
@@ -354,16 +354,16 @@
       if ($soc==7) {
           if ($amb==8) {
               if ($eco==0) {
-              }header ("Location: http://localhost/TP/Gusanito-master/republica-checa.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/republica-checa.html");
               }
             }
           }
 
-    if ($eco==7) {
-      if ($soc==9) {
-          if ($amb==4) {
-              if ($eco==8) {
-              }header ("Location: http://localhost/TP/Gusanito-master/rusia.html");
+    if ($eco==6) {
+      if ($soc==7) {
+          if ($amb==1) {
+              if ($rad==6) {
+              }header ("Location: http://localhost/EAL/Gusanito-master/rusia.html");
               }
             }
           }
@@ -372,7 +372,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==9) {
-              }header ("Location: http://localhost/TP/Gusanito-master/san-marino.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/san-marino.html");
               }
             }
           }
@@ -381,7 +381,7 @@
       if ($soc==7) {
           if ($amb==9) {
               if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanito-master/singapur.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/singapur.html");
               }
             }
           }
@@ -390,7 +390,7 @@
       if ($soc==7) {
           if ($amb==3) {
               if ($eco==7) {
-              }header ("Location: http://localhost/TP/Gusanito-master/suecia.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/suecia.html");
               }
             }
           }
@@ -399,7 +399,7 @@
       if ($soc==9) {
           if ($amb==4) {
               if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanito-master/suiza.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/suiza.html");
               }
             }
           }
@@ -408,7 +408,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==5) {
-              }header ("Location: http://localhost/TP/Gusanito-master/turquia.html");
+              }header ("Location: http://localhost/EAL/Gusanito-master/turquia.html");
               }
             }
           }
