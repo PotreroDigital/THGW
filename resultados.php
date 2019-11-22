@@ -38,7 +38,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==7) {
-              }header ("https://ealucero.github.io/Gusanito/alemania.html");
+              }href ("https://ealucero.github.io/Gusanito/alemania.html");
               }
             }
           }
