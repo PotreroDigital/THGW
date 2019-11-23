@@ -223,10 +223,10 @@
             }
           }
 
-    if ($eco==8) {
-      if ($soc==8) {
-          if ($amb==4) {
-              if ($eco==8) {
+    if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==3) {
+              if ($rad==3) {
               }header ("Location: http://localhost/EAL/Gusanito-master/islandia.html");
               }
             }
@@ -254,16 +254,16 @@
     if ($eco==7) {
       if ($soc==6) {
           if ($amb==7) {
-              if ($eco==7) {
+              if ($rad==7) {
               }header ("Location: http://localhost/EAL/Gusanito-master/japon.html");
               }
             }
           }
 
-    if ($eco==9) {
-      if ($soc==0) {
+    if ($eco==7) {
+      if ($soc==7) {
           if ($amb==0) {
-              if ($eco==5) {
+              if ($rad==3) {
               }header ("Location: http://localhost/EAL/Gusanito-master/kuwait.html");
               }
             }
@@ -278,8 +278,8 @@
             }
           }
 
-    if ($eco==0) {
-      if ($soc==0) {
+    if ($eco==5) {
+      if ($soc==7) {
           if ($amb==0) {
               if ($eco==8) {
               }header ("Location: http://localhost/EAL/Gusanito-master/luxemburgo.html");
@@ -287,19 +287,19 @@
             }
           }
 
-    if ($eco==9) {
-      if ($soc==8) {
-          if ($amb==9) {
-              if ($eco==8) {
+    if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==0) {
+              if ($rad==7) {
               }header ("Location: http://localhost/EAL/Gusanito-master/noruega.html");
               }
             }
           }
 
-    if ($eco==8) {
-      if ($soc==9) {
-          if ($amb==8) {
-              if ($eco==9) {
+    if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==5) {
+              if ($rad==7) {
               }header ("Location: http://localhost/EAL/Gusanito-master/nueva-zelanda.html");
               }
             }
@@ -378,9 +378,9 @@
           }
 
     if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==9) {
-              if ($eco==5) {
+      if ($soc==3) {
+          if ($amb==4) {
+              if ($rad==7) {
               }header ("Location: http://localhost/EAL/Gusanito-master/singapur.html");
               }
             }
@@ -404,9 +404,9 @@
             }
           }
 
-    if ($eco==8) {
+    if ($eco==4) {
       if ($soc==7) {
-          if ($amb==4) {
+          if ($amb==6') {
               if ($eco==5) {
               }header ("Location: http://localhost/EAL/Gusanito-master/turquia.html");
               }
