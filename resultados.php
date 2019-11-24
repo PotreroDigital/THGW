@@ -406,8 +406,8 @@
 
     if ($eco==4) {
       if ($soc==7) {
-          if ($amb==6') {
-              if ($eco==5) {
+          if ($amb==2) {
+              if ($rad==3) {
               }header ("Location: http://localhost/EAL/Gusanito-master/turquia.html");
               }
             }
