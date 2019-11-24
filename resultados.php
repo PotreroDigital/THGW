@@ -38,7 +38,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/Gusanito/alemania.html");
+              }header ("Location: https://ealucero.github.io/THGW/alemania.html");
               }
             }
           }
@@ -47,7 +47,7 @@
       if ($soc==1) {
           if ($amb==0) {
               if ($rad==2) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/arabia-saudita.html");
+              }header ("Location: https://ealucero.github.io/THGW/arabia-saudita.html");
               }
             }
           }
@@ -56,7 +56,7 @@
       if ($soc==6) {
           if ($amb==0) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/australia.html");
+              }header ("Location: https://ealucero.github.io/THGW/australia.html");
               }
             }
           }
@@ -65,7 +65,7 @@
       if ($soc==7) {
           if ($amb==3) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/austria.html");
+              }header ("Location: https://ealucero.github.io/THGW/austria.html");
               }
             }
           }
@@ -74,7 +74,7 @@
       if ($soc==3) {
           if ($amb==2) {
               if ($rad==3) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/barein.html");
+              }header ("Location: https://ealucero.github.io/THGW/barein.html");
               }
             }
           }
@@ -83,7 +83,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==4) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/belgica.html");
+              }header ("Location: https://ealucero.github.io/THGW/belgica.html");
               }
             }
           }
@@ -92,7 +92,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/brasil.html");
+              }header ("Location: https://ealucero.github.io/THGW/brasil.html");
               }
             }
           }
@@ -101,7 +101,7 @@
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==8) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/brunei.html");
+              }header ("Location: https://ealucero.github.io/THGW/brunei.html");
               }
             }
           }
@@ -110,7 +110,7 @@
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/canada.html");
+              }header ("Location: https://ealucero.github.io/THGW/canada.html");
               }
             }
           }
@@ -119,7 +119,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==8) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/catar.html");
+              }header ("Location: https://ealucero.github.io/THGW/catar.html");
               }
             }
           }
@@ -128,7 +128,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==8) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/corea-sur.html");
+              }header ("Location: https://ealucero.github.io/THGW/corea-sur.html");
               }
             }
           }
@@ -137,7 +137,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==8) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/dinamarca.html");
+              }header ("Location: https://ealucero.github.io/THGW/dinamarca.html");
               }
             }
           }
@@ -146,7 +146,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==3) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/emiratos-arabes.html");
+              }header ("Location: https://ealucero.github.io/THGW/emiratos-arabes.html");
               }
             }
           }
@@ -155,7 +155,7 @@
       if ($soc==7) {
           if ($amb==5) {
               if ($rad==8) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/eslovaquia.html");
+              }header ("Location: https://ealucero.github.io/THGW/eslovaquia.html");
               }
             }
           }
@@ -164,7 +164,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==5) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/eslovenia.html");
+              }header ("Location: https://ealucero.github.io/THGW/eslovenia.html");
               }
             }
           }
@@ -173,7 +173,7 @@
       if ($soc==7) {
           if ($amb==6) {
               if ($rad==0) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/espana.html");
+              }header ("Location: https://ealucero.github.io/THGW/espana.html");
               }
             }
           }
@@ -182,7 +182,7 @@
       if ($soc==6) {
           if ($amb==4) {
               if ($rad==2) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/estados-unidos.html");
+              }header ("Location: https://ealucero.github.io/THGW/estados-unidos.html");
               }
             }
           }
@@ -191,7 +191,7 @@
       if ($soc==7) {
           if ($amb==8) {
               if ($rad==8) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/finlandia.html");
+              }header ("Location: https://ealucero.github.io/THGW/finlandia.html");
               }
             }
           }
@@ -200,7 +200,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost//EALGusanito-master/francia.html");
+              }header ("Location: https://ealucero.github.io/THGW/francia.html");
               }
             }
           }
@@ -209,7 +209,7 @@
       if ($soc==8) {
           if ($amb==4) {
               if ($rad==5) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/indonesia.html");
+              }header ("Location: https://ealucero.github.io/THGW/indonesia.html");
               }
             }
           }
@@ -218,7 +218,7 @@
       if ($soc==6) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/irlanda.html");
+              }header ("Location: https://ealucero.github.io/THGW/irlanda.html");
               }
             }
           }
@@ -227,7 +227,7 @@
       if ($soc==7) {
           if ($amb==3) {
               if ($rad==3) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/islandia.html");
+              }header ("Location: https://ealucero.github.io/THGW/islandia.html");
               }
             }
           }
@@ -236,7 +236,7 @@
       if ($soc==7) {
           if ($amb==2) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/israel.html");
+              }header ("Location: https://ealucero.github.io/THGW/israel.html");
               }
             }
           }
@@ -245,7 +245,7 @@
       if ($soc==6) {
           if ($amb==2) {
               if ($rad==2) {
-              }header ("Location: http://localhost/EAL/TP/Gusanito-master/italia.html");
+              }header ("Location: https://ealucero.github.io/THGW/italia.html");
               }
             }
           }
@@ -255,7 +255,7 @@
       if ($soc==6) {
           if ($amb==7) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/japon.html");
+              }header ("Location: https://ealucero.github.io/THGW/japon.html");
               }
             }
           }
@@ -264,7 +264,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==3) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/kuwait.html");
+              }header ("Location: https://ealucero.github.io/THGW/kuwait.html");
               }
             }
           }
@@ -272,26 +272,35 @@
     if ($eco==0) {
       if ($soc==0) {
           if ($amb==0) {
-              if ($eco==9) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/liechtenstein.html");
+              if ($rad==9) {
+              }header ("Location: https://ealucero.github.io/THGW/liechtenstein.html");
               }
             }
           }
 
     if ($eco==5) {
       if ($soc==7) {
-          if ($amb==0) {
-              if ($eco==8) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/luxemburgo.html");
+          if ($amb==8) {
+              if ($rad==8) {
+              }header ("Location: https://ealucero.github.io/THGW/luxemburgo.html");
               }
             }
           }
 
     if ($eco==5) {
       if ($soc==7) {
-          if ($amb==0) {
+          if ($amb==2) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/noruega.html");
+              }header ("Location: https://ealucero.github.io/THGW/noruega.html");
+              }
+            }
+          }
+
+    if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==4) {
+              if ($rad==7) {
+              }header ("Location: https://ealucero.github.io/THGW/nueva-zelanda.html");
               }
             }
           }
@@ -300,16 +309,7 @@
       if ($soc==7) {
           if ($amb==5) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/nueva-zelanda.html");
-              }
-            }
-          }
-
-    if ($eco==8) {
-      if ($soc==0) {
-          if ($amb==9) {
-              if ($eco==8) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/paises-bajos.html");
+              }header ("Location: https://ealucero.github.io/THGW/paises-bajos.html");
               }
             }
           }
@@ -318,7 +318,7 @@
       if ($soc==8) {
           if ($amb==8) {
               if ($eco==9) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/panama.html");
+              }header ("Location: https://ealucero.github.io/THGW/panama.html");
               }
             }
           }
@@ -327,7 +327,7 @@
       if ($soc==7) {
           if ($amb==9) {
               if ($eco==9) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/polonia.html");
+              }header ("Location: https://ealucero.github.io/THGW/polonia.html");
               }
             }
           }
@@ -336,7 +336,7 @@
       if ($soc==7) {
           if ($amb==9) {
               if ($eco==0) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/portugal.html");
+              }header ("Location: https://ealucero.github.io/THGW/portugal.html");
               }
             }
           }
@@ -345,7 +345,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/reino-unido.html");
+              }header ("Location: https://ealucero.github.io/THGW/reino-unido.html");
               }
             }
           }
@@ -354,7 +354,7 @@
       if ($soc==7) {
           if ($amb==8) {
               if ($eco==0) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/republica-checa.html");
+              }header ("Location: https://ealucero.github.io/THGW/republica-checa.html");
               }
             }
           }
@@ -363,7 +363,7 @@
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==6) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/rusia.html");
+              }header ("Location: https://ealucero.github.io/THGW/rusia.html");
               }
             }
           }
@@ -372,7 +372,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($eco==9) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/san-marino.html");
+              }header ("Location: https://ealucero.github.io/THGW/san-marino.html");
               }
             }
           }
@@ -381,7 +381,7 @@
       if ($soc==3) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/singapur.html");
+              }header ("Location: https://ealucero.github.io/THGW/singapur.html");
               }
             }
           }
@@ -390,7 +390,7 @@
       if ($soc==7) {
           if ($amb==3) {
               if ($eco==7) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/suecia.html");
+              }header ("Location: https://ealucero.github.io/THGW/suecia.html");
               }
             }
           }
@@ -399,7 +399,7 @@
       if ($soc==9) {
           if ($amb==4) {
               if ($eco==5) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/suiza.html");
+              }header ("Location: https://ealucero.github.io/THGW/suiza.html");
               }
             }
           }
@@ -408,7 +408,7 @@
       if ($soc==7) {
           if ($amb==2) {
               if ($rad==3) {
-              }header ("Location: http://localhost/EAL/Gusanito-master/turquia.html");
+              }header ("Location: https://ealucero.github.io/THGW/turquia.html");
               }
             }
           }
