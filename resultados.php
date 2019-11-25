@@ -332,10 +332,10 @@
             }
           }
 
-    if ($eco==7) {
+    if ($eco==0) {
       if ($soc==7) {
-          if ($amb==9) {
-              if ($eco==0) {
+          if ($amb==4) {
+              if ($eco==3) {
               }header ("Location: https://ealucero.github.io/THGW/portugal.html");
               }
             }
