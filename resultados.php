@@ -32,13 +32,14 @@
     echo "n° : ".$soc."<br>";
     echo "n° : ".$amb."<br>";
     echo "n° : ".$rad."<br>";
-    echo "Andate a Mordor";
+    echo "Lo siento, la combinación elegida no está disponible.
+    Regrese a la página principal: "."<a href= http://localhost/THGW-master/index.html>http://localhost/THGW-master/index.html</a>";
 
     if ($eco==5) {
       if ($soc==7) {
-          if ($amb==0) {
+          if ($amb==5) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/alemania.html");
+              }header ("Location: http://localhost/THGW-master/alemania.html");
               }
             }
           }
@@ -47,25 +48,25 @@
       if ($soc==1) {
           if ($amb==0) {
               if ($rad==2) {
-              }header ("Location: https://ealucero.github.io/THGW/arabia-saudita.html");
+              }header ("Location: http://localhost/THGW-master/arabia-saudita.html");
               }
             }
           }
 
-    if ($eco==7) {
+    if ($eco==5) {
       if ($soc==6) {
           if ($amb==0) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/australia.html");
+              }header ("Location: http://localhost/THGW-master/australia.html");
               }
             }
           }
 
     if ($eco==5) {
       if ($soc==7) {
-          if ($amb==3) {
-              if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/austria.html");
+          if ($amb==7) {
+              if ($rad==3) {
+              }header ("Location: http://localhost/THGW-master/austria.html");
               }
             }
           }
@@ -74,7 +75,7 @@
       if ($soc==3) {
           if ($amb==2) {
               if ($rad==3) {
-              }header ("Location: https://ealucero.github.io/THGW/barein.html");
+              }header ("Location: http://localhost/THGW-master/barein.html");
               }
             }
           }
@@ -82,17 +83,17 @@
     if ($eco==5) {
       if ($soc==7) {
           if ($amb==4) {
-              if ($rad==4) {
-              }header ("Location: https://ealucero.github.io/THGW/belgica.html");
+              if ($rad==6) {
+              }header ("Location: http://localhost/THGW-master/belgica.html");
               }
             }
           }
 
-    if ($eco==2) {
+    if ($eco==0) {
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/brasil.html");
+              }header ("Location: http://localhost/THGW-master/brasil.html");
               }
             }
           }
@@ -101,16 +102,16 @@
       if ($soc==1) {
           if ($amb==4) {
               if ($rad==3) {
-              }header ("Location: https://ealucero.github.io/THGW/brunei.html");
+              }header ("Location: http://localhost/THGW-master/brunei.html");
               }
             }
           }
 
-    if ($eco==7) {
+    if ($eco==5) {
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/canada.html");
+              }header ("Location: http://localhost/THGW-master/canada.html");
               }
             }
           }
@@ -119,7 +120,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==3) {
-              }header ("Location: https://ealucero.github.io/THGW/catar.html");
+              }header ("Location: http://localhost/THGW-master/catar.html");
               }
             }
           }
@@ -128,25 +129,25 @@
       if ($soc==6) {
           if ($amb==7) {
               if ($eco==3) {
-              }header ("Location: https://ealucero.github.io/THGW/corea-sur.html");
+              }header ("Location: http://localhost/THGW-master/corea-sur.html");
+              }
+            }
+          }
+
+    if ($eco==5) {
+      if ($soc==7) {
+          if ($amb==5) {
+              if ($rad==6) {
+              }header ("Location: http://localhost/THGW-master/dinamarca.html");
               }
             }
           }
 
     if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/dinamarca.html");
-              }
-            }
-          }
-
-    if ($eco==7) {
-      if ($soc==7) {
+      if ($soc==5) {
           if ($amb==0) {
-              if ($rad==3) {
-              }header ("Location: https://ealucero.github.io/THGW/emiratos-arabes.html");
+              if ($rad==1) {
+              }header ("Location: http://localhost/THGW-master/emiratos-arabes.html");
               }
             }
           }
@@ -155,16 +156,16 @@
       if ($soc==6) {
           if ($amb==7) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/eslovaquia.html");
+              }header ("Location: http://localhost/THGW-master/eslovaquia.html");
               }
             }
           }
 
     if ($eco==5) {
       if ($soc==7) {
-          if ($amb==7) {
+          if ($amb==5) {
               if ($eco==3) {
-              }header ("Location: https://ealucero.github.io/THGW/eslovenia.html");
+              }header ("Location: http://localhost/THGW-master/eslovenia.html");
               }
             }
           }
@@ -173,16 +174,16 @@
       if ($soc==7) {
           if ($amb==6) {
               if ($rad==0) {
-              }header ("Location: https://ealucero.github.io/THGW/espana.html");
+              }header ("Location: http://localhost/THGW-master/espana.html");
               }
             }
           }
 
-    if ($eco==7) {
+    if ($eco==5) {
       if ($soc==6) {
           if ($amb==4) {
               if ($rad==2) {
-              }header ("Location: https://ealucero.github.io/THGW/estados-unidos.html");
+              }header ("Location: http://localhost/THGW-master/estados-unidos.html");
               }
             }
           }
@@ -191,7 +192,7 @@
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==3) {
-              }header ("Location: https://ealucero.github.io/THGW/finlandia.html");
+              }header ("Location: http://localhost/THGW-master/finlandia.html");
               }
             }
           }
@@ -199,8 +200,8 @@
     if ($eco==5) {
       if ($soc==7) {
           if ($amb==4) {
-              if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/francia.html");
+              if ($rad==3) {
+              }header ("Location: http://localhost/THGW-master/francia.html");
               }
             }
           }
@@ -209,7 +210,7 @@
       if ($soc==4) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/indonesia.html");
+              }header ("Location: http://localhost/THGW-master/indonesia.html");
               }
             }
           }
@@ -218,7 +219,7 @@
       if ($soc==6) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/irlanda.html");
+              }header ("Location: http://localhost/THGW-master/irlanda.html");
               }
             }
           }
@@ -232,11 +233,11 @@
             }
           }
 
-    if ($eco==7) {
+    if ($eco==5) {
       if ($soc==7) {
           if ($amb==2) {
-              if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/israel.html");
+              if ($rad==6) {
+              }header ("Location: http://localhost/THGW-master/israel.html");
               }
             }
           }
@@ -251,11 +252,11 @@
           }
 
 
-    if ($eco==7) {
+    if ($eco==5) {
       if ($soc==6) {
           if ($amb==7) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/japon.html");
+              }header ("Location: http://localhost/THGW-master/japon.html");
               }
             }
           }
@@ -264,7 +265,7 @@
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==1) {
-              }header ("Location: https://ealucero.github.io/THGW/kuwait.html");
+              }header ("Location: http://localhost/THGW-master/kuwait.html");
               }
             }
           }
@@ -273,43 +274,43 @@
       if ($soc==7) {
           if ($amb==7) {
               if ($rad==3) {
-              }header ("Location: https://ealucero.github.io/THGW/liechtenstein.html");
+              }header ("Location: http://localhost/THGW-master/liechtenstein.html");
               }
             }
           }
 
-    if ($eco==7) {
+    if ($eco==5) {
       if ($soc==7) {
           if ($amb==7) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/luxemburgo.html");
+              }header ("Location: http://localhost/THGW-master/luxemburgo.html");
               }
             }
           }
 
     if ($eco==5) {
       if ($soc==7) {
-          if ($amb==2) {
+          if ($amb==3) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/noruega.html");
+              }header ("Location: http://localhost/THGW-master/noruega.html");
               }
             }
           }
 
     if ($eco==5) {
       if ($soc==7) {
-          if ($amb==4) {
+          if ($amb==6) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/nueva-zelanda.html");
+              }header ("Location: http://localhost/THGW-master/nueva-zelanda.html");
               }
             }
           }
 
     if ($eco==5) {
-      if ($soc==7) {
+      if ($soc==3) {
           if ($amb==5) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/paises-bajos.html");
+              }header ("Location: http://localhost/THGW-master/paises-bajos.html");
               }
             }
           }
@@ -318,7 +319,7 @@
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/panama.html");
+              }header ("Location: http://localhost/THGW-master/panama.html");
               }
             }
           }
@@ -327,7 +328,7 @@
       if ($soc==7) {
           if ($amb==5) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/polonia.html");
+              }header ("Location: http://localhost/THGW-master/polonia.html");
               }
             }
           }
@@ -335,8 +336,8 @@
     if ($eco==0) {
       if ($soc==7) {
           if ($amb==4) {
-              if ($eco==3) {
-              }header ("Location: https://ealucero.github.io/THGW/portugal.html");
+              if ($rad==3) {
+              }header ("Location: http://localhost/THGW-master/portugal.html");
               }
             }
           }
@@ -344,35 +345,35 @@
     if ($eco==5) {
       if ($soc==7) {
           if ($amb==4) {
-              if ($eco==7) {
-              }header ("Location: https://ealucero.github.io/THGW/reino-unido.html");
+              if ($rad==2) {
+              }header ("Location: http://localhost/THGW-master/reino-unido.html");
               }
             }
           }
 
-    if ($eco==7) {
+    if ($eco==5) {
       if ($soc==7) {
-          if ($amb==8) {
-              if ($eco==0) {
-              }header ("Location: https://ealucero.github.io/THGW/republica-checa.html");
+          if ($amb==6) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/THGW-master/republica-checa.html");
               }
             }
           }
 
-    if ($eco==6) {
+    if ($eco==4) {
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==6) {
-              }header ("Location: https://ealucero.github.io/THGW/rusia.html");
+              }header ("Location: http://localhost/THGW-master/rusia.html");
               }
             }
           }
 
-    if ($eco==7) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($eco==9) {
-              }header ("Location: https://ealucero.github.io/THGW/san-marino.html");
+    if ($eco==5) {
+      if ($soc==6) {
+          if ($amb==6) {
+              if ($rad==2) {
+              }header ("Location: http://localhost/THGW-master/san-marino.html");
               }
             }
           }
@@ -381,38 +382,38 @@
       if ($soc==3) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: https://ealucero.github.io/THGW/singapur.html");
+              }header ("Location: http://localhost/THGW-master/singapur.html");
+              }
+            }
+          }
+
+    if ($eco==5) {
+      if ($soc==3) {
+          if ($amb==1) {
+              if ($rad==7) {
+              }header ("Location: http://localhost/THGW-master/suecia.html");
               }
             }
           }
 
     if ($eco==5) {
       if ($soc==7) {
-          if ($amb==3) {
-              if ($eco==7) {
-              }header ("Location: https://ealucero.github.io/THGW/suecia.html");
+          if ($amb==6) {
+              if ($rad==2) {
+              }header ("Location: http://localhost/THGW-master/suiza.html");
               }
             }
           }
 
-    if ($eco==7) {
-      if ($soc==9) {
-          if ($amb==4) {
-              if ($eco==5) {
-              }header ("Location: https://ealucero.github.io/THGW/suiza.html");
-              }
-            }
-          }
-
-    if ($eco==4) {
+    if ($eco==2) {
       if ($soc==7) {
-          if ($amb==2) {
+          if ($amb==6) {
               if ($rad==3) {
-              }header ("Location: https://ealucero.github.io/THGW/turquia.html");
+              }header ("Location: http://localhost/THGW-master/turquia.html");
               }
             }
           }
-     ?>
+             ?>
 
   </body>
 </html>
