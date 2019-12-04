@@ -28,280 +28,267 @@
     $amb=$av1+$av2+$av3;
     $rad=$rv1+$rv2+$rv3;
 
-    echo "n° : ".$eco."<br>";
-    echo "n° : ".$soc."<br>";
-    echo "n° : ".$amb."<br>";
-    echo "n° : ".$rad."<br>";
-    echo "Lo siento, la combinación elegida no está disponible.
-    Regrese a la página principal: "."<a href= http://localhost/THGW-master/index.html>http://localhost/THGW-master/index.html</a>";
+    $value=$eco.$soc.$amb.$rad;
+
 
     if ($eco==5) {
       if ($soc==7) {
-          if ($amb==5) {
-              if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/alemania.html");
-              }
+        if ($amb==5) {
+            if ($rad==7) {
+            }"<script> window.location='alemania.html'; </script>";
             }
           }
+        }
 
-    if ($eco==7) {
-      if ($soc==1) {
-          if ($amb==0) {
-              if ($rad==2) {
-              }header ("Location: http://localhost/THGW-master/arabia-saudita.html");
-              }
-            }
-          }
-
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==6) {
           if ($amb==0) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/australia.html");
+              }"<script> window.location='australia.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==7) {
               if ($rad==3) {
-              }header ("Location: http://localhost/THGW-master/austria.html");
+              }"<script> window.location='austria.html'; </script>";
               }
             }
           }
 
-    if ($eco==7) {
+    elseif ($eco==7) {
       if ($soc==3) {
           if ($amb==2) {
               if ($rad==3) {
-              }header ("Location: http://localhost/THGW-master/barein.html");
+              }"<script> window.location='barein.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==6) {
-              }header ("Location: http://localhost/THGW-master/belgica.html");
+              }"<script> window.location='belgica.html'; </script>";
               }
             }
           }
 
-    if ($eco==0) {
-      if ($soc==7) {
-          if ($amb==4) {
-              if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/brasil.html");
-              }
-            }
-          }
-
-    if ($eco==7) {
+    elseif ($eco==7) {
       if ($soc==1) {
           if ($amb==4) {
               if ($rad==3) {
-              }header ("Location: http://localhost/THGW-master/brunei.html");
+              }"<script> window.location='brasil.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==7) {
+      if ($soc==1) {
+          if ($amb==4) {
+              if ($rad==3) {
+              }"<script> window.location='brunei.html'; </script>";
+              }
+            }
+          }
+
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/canada.html");
+              }"<script> window.location='canada.html'; </script>";
               }
             }
           }
 
-    if ($eco==7) {
+    elseif ($eco==7) {
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==3) {
-              }header ("Location: http://localhost/THGW-master/catar.html");
+              }"<script> window.location='catar.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==6) {
           if ($amb==7) {
               if ($eco==3) {
-              }header ("Location: http://localhost/THGW-master/corea-sur.html");
+              }"<script> window.location='corea-sur.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==5) {
               if ($rad==6) {
-              }header ("Location: http://localhost/THGW-master/dinamarca.html");
+              }"<script> window.location='dinamarca.html'; </script>";
               }
             }
           }
 
-    if ($eco==7) {
+    elseif ($eco==7) {
       if ($soc==5) {
           if ($amb==0) {
               if ($rad==1) {
-              }header ("Location: http://localhost/THGW-master/emiratos-arabes.html");
+              }"<script> window.location='emiratos-arabes.html'; </script>";
               }
             }
           }
 
-    if ($eco==4) {
+    elseif ($eco==4) {
       if ($soc==6) {
           if ($amb==7) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/eslovaquia.html");
+              }"<script> window.location='eslovaquia.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==5) {
               if ($eco==3) {
-              }header ("Location: http://localhost/THGW-master/eslovenia.html");
+              }"<script> window.location='eslovenia.html'; </script>";
               }
             }
           }
 
-    if ($eco==1) {
+    elseif ($eco==1) {
       if ($soc==7) {
           if ($amb==6) {
               if ($rad==0) {
-              }header ("Location: http://localhost/THGW-master/espana.html");
+              }"<script> window.location='espana.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==6) {
           if ($amb==4) {
               if ($rad==2) {
-              }header ("Location: http://localhost/THGW-master/estados-unidos.html");
+              }"<script> window.location='estados-unidos.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==3) {
-              }header ("Location: http://localhost/THGW-master/finlandia.html");
+              }"<script> window.location='finlandia.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==3) {
-              }header ("Location: http://localhost/THGW-master/francia.html");
+              }"<script> window.location='francia.html'; </script>";
               }
             }
           }
 
-    if ($eco==4) {
+    elseif ($eco==4) {
       if ($soc==4) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/indonesia.html");
+              }"<script> window.location='indonesia.html'; </script>";
               }
             }
           }
 
-    if ($eco==7) {
+    elseif ($eco==7) {
       if ($soc==6) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/irlanda.html");
+              }"<script> window.location='irlanda.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==3) {
               if ($rad==3) {
-              }header ("Location: https://ealucero.github.io/THGW/islandia.html");
+              }"<script> window.location='israel.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==2) {
               if ($rad==6) {
-              }header ("Location: http://localhost/THGW-master/israel.html");
+              }"<script> window.location='israel.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==6) {
           if ($amb==2) {
               if ($rad==2) {
-              }header ("Location: https://ealucero.github.io/THGW/italia.html");
+              }"<script> window.location='italia.html'; </script>";
               }
             }
           }
 
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==6) {
           if ($amb==7) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/japon.html");
+              }"<script> window.location='japon.html'; </script>";
               }
             }
           }
 
-    if ($eco==7) {
+    elseif ($eco==7) {
       if ($soc==7) {
           if ($amb==0) {
               if ($rad==1) {
-              }header ("Location: http://localhost/THGW-master/kuwait.html");
+              }"<script> window.location='kuwait.html'; </script>";
               }
             }
           }
 
-    if ($eco==7) {
+    elseif ($eco==7) {
       if ($soc==7) {
           if ($amb==7) {
               if ($rad==3) {
-              }header ("Location: http://localhost/THGW-master/liechtenstein.html");
+              }"<script> window.location='liechtenstein.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==7) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/luxemburgo.html");
+              }"<script> window.location='luxemburgo.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==3) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/noruega.html");
+              }"<script> window.location='noruega.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==6) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/nueva-zelanda.html");
+              }"<script> window.location='nueva-zelanda.html'; </script>";
               }
             }
           }
@@ -310,109 +297,115 @@
       if ($soc==3) {
           if ($amb==5) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/paises-bajos.html");
+              }"<script> window.location='paises-bajos.html'; </script>";
               }
             }
           }
 
-    if ($eco==6) {
+    elseif ($eco==6) {
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/panama.html");
+              }"<script> window.location='panama.html'; </script>";
               }
             }
           }
 
-    if ($eco==4) {
+    elseif ($eco==4) {
       if ($soc==7) {
           if ($amb==5) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/polonia.html");
+              }"<script> window.location='polonia.html'; </script>";
               }
             }
           }
 
-    if ($eco==0) {
+    elseif ($eco==0) {
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==3) {
-              }header ("Location: http://localhost/THGW-master/portugal.html");
+              }"<script> window.location='portugal.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==4) {
               if ($rad==2) {
-              }header ("Location: http://localhost/THGW-master/reino-unido.html");
+              }"<script> window.location='reino-unido.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==6) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/republica-checa.html");
+              }"<script> window.location='republica-checa.html'; </script>";
               }
             }
           }
 
-    if ($eco==4) {
+    elseif ($eco==4) {
       if ($soc==7) {
           if ($amb==1) {
               if ($rad==6) {
-              }header ("Location: http://localhost/THGW-master/rusia.html");
+              }"<script> window.location='rusia.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==6) {
           if ($amb==6) {
               if ($rad==2) {
-              }header ("Location: http://localhost/THGW-master/san-marino.html");
+              }"<script> window.location='san-marino.html'; </script>";
               }
             }
           }
 
-    if ($eco==7) {
+    elseif ($eco==7) {
       if ($soc==3) {
           if ($amb==4) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/singapur.html");
+              }"<script> window.location='singapur.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==3) {
           if ($amb==1) {
               if ($rad==7) {
-              }header ("Location: http://localhost/THGW-master/suecia.html");
+              }"<script> window.location='suecia.html'; </script>";
               }
             }
           }
 
-    if ($eco==5) {
+    elseif ($eco==5) {
       if ($soc==7) {
           if ($amb==6) {
               if ($rad==2) {
-              }header ("Location: http://localhost/THGW-master/suiza.html");
+              }"<script> window.location='suiza.html'; </script>";
               }
             }
           }
 
-    if ($eco==2) {
+    elseif ($eco==2) {
       if ($soc==7) {
           if ($amb==6) {
               if ($rad==3) {
-              }header ("Location: http://localhost/THGW-master/turquia.html");
+              }"<script> window.location='turquia.html'; </script>";
               }
             }
           }
+
+    elseif ($value>=0000 && $value<=7777) {
+      }echo "n°: ".$value."<br>";
+      echo "Lo siento, la combinación elegida no está disponible.
+      Redireccionando...";
+      echo "<script> setTimeout('history.back()',5000); </script>";
              ?>
 
   </body>
